@@ -1,0 +1,37 @@
+commit 03754158c0dede9d4edcfae5ea7c14a5d4212bae
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Sun Oct 1 15:20:48 2023 +0500
+
+    Adding new branch
+
+commit 45eb310797567e84d8967a23da188bff9e8be1f6
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Sun Oct 1 15:15:34 2023 +0500
+
+    Revert "Добавляем второе значение"
+    
+    This reverts commit bf4ff6790d2b2f1e5e3831781f1932d8be070a34.
+
+commit 51c32c7e46bab274ada1dfa9781e35ac0a2cb919
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Sun Oct 1 15:12:14 2023 +0500
+
+    Четвертое значение добавлено
+
+commit 6944fb74a747defc06748d546ace545224ff6cba
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Sun Oct 1 15:08:37 2023 +0500
+
+    Третье значение добаляем
+
+commit bf4ff6790d2b2f1e5e3831781f1932d8be070a34
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Sun Oct 1 15:06:40 2023 +0500
+
+    Добавляем второе значение
+
+commit 52a03e5eeea1ff98ce1cf8f36d8685e80a1667bb
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Sun Oct 1 15:03:19 2023 +0500
+
+    Мой первый коммит
